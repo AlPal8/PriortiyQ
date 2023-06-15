@@ -1,0 +1,7 @@
+bake one diff in preprod0
+add new zones for redis1
+change the turnup runbooks to start a zone with memkv instead of tredis1
+download the monorepo1
+create a cli tool for redis which deserializes from a) compression b) bit64 encodeding c) ES2
+look into m3 umonitor2
+read influxdb documentation and look into source code3
